@@ -45,13 +45,17 @@ As not early men are renting more bikes than women, and it also appears they are
 ### Trips by Weekday for Each Hour
 ![Trips by Weekday for Each Hour Viz](https://user-images.githubusercontent.com/112028534/209248086-5c5cdb7e-89a8-4309-98e6-405bc229d1ef.PNG)
 
-
+Based on the above visual the popular times to rent bikes are before and after work on the weekdays. Thursday at at 5-6pm appears to have the most trips during the week.
 
 ### Trips by Gender (Weekday per Hour)
-![Trips by Gender (Weekday per Hour) Viz](https://user-images.githubusercontent.com/112028534/209243388-387295c8-d9c3-4b94-adf5-e70f44f1ec59.PNG)
+![Trips by Gender (Weekday per Hour) Viz](https://user-images.githubusercontent.com/112028534/209248515-4496036e-ca3e-4605-862d-72d613d5ab15.PNG)
+
+
 
 ### Trips by Gender by Weekday
-![Trips by Gender by Weekday Viz](https://user-images.githubusercontent.com/112028534/209243390-e06f2247-3fb7-43cc-bb0e-0efdbdf36949.PNG)
+![Trips by Gender by Weekday Viz](https://user-images.githubusercontent.com/112028534/209248537-5167fe48-cdbb-44c8-9e94-80e61d30a5ed.PNG)
+
+
 
 ## Summary 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset. New York City—Des Moines is quite different! Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
