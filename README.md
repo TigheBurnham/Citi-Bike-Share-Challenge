@@ -40,22 +40,24 @@ Its clear the majority of bikes are returned within an hour. With the most amoun
 ### Checkout Times by Gender
 ![Checkout Times by Gender Viz](https://user-images.githubusercontent.com/112028534/209243366-be308cd1-36d7-40e2-9969-08d2a7fb4e60.PNG)
 
-As not early men are renting more bikes than women, and it also appears they are riding the bikes for a slightly longer duration too. Most women appear to be returning the bikes within 15 minutes.
+As noted earlier, men are renting more bikes than women, and it also appears they are riding the bikes for a slightly longer duration too. Most women appear to be returning the bikes within 15 minutes of starting their ride.
 
 ### Trips by Weekday for Each Hour
 ![Trips by Weekday for Each Hour Viz](https://user-images.githubusercontent.com/112028534/209248086-5c5cdb7e-89a8-4309-98e6-405bc229d1ef.PNG)
 
-Based on the above visual the popular times to rent bikes are before and after work on the weekdays. Thursday at at 5-6pm appears to have the most trips during the week.
+Based on the above visual the most popular times to rent bikes are before and after work on the weekdays. Thursday at at 5-6pm appears to have the most trips during the week. Wednesday evening appears to have the least amount of trips during the week days.
 
 ### Trips by Gender (Weekday per Hour)
 ![Trips by Gender (Weekday per Hour) Viz](https://user-images.githubusercontent.com/112028534/209248515-4496036e-ca3e-4605-862d-72d613d5ab15.PNG)
 
+Again there is a similar pattern of men renting more bikes before and after work in the weekdays. It also appears that women are riding bikes at similar times as men.
 
 
 ### Trips by Gender by Weekday
 ![Trips by Gender by Weekday Viz](https://user-images.githubusercontent.com/112028534/209248537-5167fe48-cdbb-44c8-9e94-80e61d30a5ed.PNG)
 
+The majority of inviduals that are taking advatage of this service are subscribers who are men.
 
 
 ## Summary 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset. New York City—Des Moines is quite different! Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+Based on the results and visualizations that were created in Tableau it is clear that the target market for the bike sharing program are men who are looking for an alternative form of commute to and from work. Most of the individuals that use this type of service are subsribers, so it appears the ideal subsriber lives 15 to 20 minutes from their office. Now this data was from 2019 which is prior to covid, and is also based off of New York City which is a much different city than Des Moines. Today more individuals work from, and base on the traffic and congestion in New York City that may increase the demand for the bike sharing program. More information regarding the demographics of Des-Moines and how many people commute to work should be collected for this program is pitched to potential investors.
