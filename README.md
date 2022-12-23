@@ -63,3 +63,5 @@ The majority of individuals that are taking advantage of this service are subscr
 Based on the results and visualizations that were created in Tableau it is clear that the target market for the bike sharing program are men who are looking for an alternative form of commute to and from work. Most of the individuals that use this type of service are subscribers, so it appears the ideal subscriber lives within a 15 to 20 minute commute from their office. 
 
 Now this data was from 2019 which is prior to Covid, and is also based off of New York City which is a much different city than Des-Moines. Today more individuals work from home, and based on the traffic and congestion in New York City that may increase the demand for the bike sharing program out of that location. More information regarding the demographics of Des-Moines and how many people commute to work should be collected before this program is pitched to potential investors.
+
+[link to dashboard]
