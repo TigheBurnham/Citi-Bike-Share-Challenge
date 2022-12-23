@@ -35,13 +35,17 @@ As we can see the majority of the individuals who particpate in the bike sharing
 ### Checkout Times for Users
 ![Checkout Times for Users Viz](https://user-images.githubusercontent.com/112028534/209243370-da27e0ac-c3b0-4c07-b5a5-f70a9b42f913.PNG)
 
-
+Its clear the majority of bikes are returned within an hour. With the most amount of bikes returned within 20 minutes.
 
 ### Checkout Times by Gender
 ![Checkout Times by Gender Viz](https://user-images.githubusercontent.com/112028534/209243366-be308cd1-36d7-40e2-9969-08d2a7fb4e60.PNG)
 
+As not early men are renting more bikes than women, and it also appears they are riding the bikes for a slightly longer duration too. Most women appear to be returning the bikes within 15 minutes.
+
 ### Trips by Weekday for Each Hour
-![Trips by Weekday for Each Hour Viz](https://user-images.githubusercontent.com/112028534/209243386-22a6da15-c8ee-43bf-9c24-91b44a5674b4.PNG)
+![Trips by Weekday for Each Hour Viz](https://user-images.githubusercontent.com/112028534/209248086-5c5cdb7e-89a8-4309-98e6-405bc229d1ef.PNG)
+
+
 
 ### Trips by Gender (Weekday per Hour)
 ![Trips by Gender (Weekday per Hour) Viz](https://user-images.githubusercontent.com/112028534/209243388-387295c8-d9c3-4b94-adf5-e70f44f1ec59.PNG)
