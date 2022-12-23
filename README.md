@@ -4,7 +4,7 @@
 
 The Purpose of this analysis was to learn Tableau and how it's a powerful too that can transform data into an engaging story for a specific audience. In this circumstance we were sent a business proposal for a bike-sharing company based out of Des-Moines Iowa. In order to convince investors, bike-sharing and trip data based out of NYC was used to create the visualizations. 
 
-In this challenge Pandas was used to change the "trip duration" to a date time datatype. Then, the updated data was to create a set of visualizations to show:
+In this challenge Pandas was used to change the "trip duration" to a date time datatype. Then, the updated data was used to create a set of visualizations to show:
 
 - Top Trip Start Locations
 - Top Trip End Locations
