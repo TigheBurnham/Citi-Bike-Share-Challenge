@@ -64,4 +64,4 @@ Based on the results and visualizations that were created in Tableau it is clear
 
 Now this data was from 2019 which is prior to Covid, and is also based off of New York City which is a much different city than Des-Moines. Today more individuals work from home, and based on the traffic and congestion in New York City that may increase the demand for the bike sharing program out of that location. More information regarding the demographics of Des-Moines and how many people commute to work should be collected before this program is pitched to potential investors.
 
-[link to dashboard]
+[link to dashboard](https://public.tableau.com/app/profile/ty.burnham/viz/Bike-ShareChallenge/Bike-ShareChallengeStory?publish=yes)
